@@ -2,7 +2,7 @@
 
 > A Permutation Playground for Words. An interactive tool to visualize combinatorial concepts.
 
-(https://github.com/laurenjXD/reworded/releases/download/v1.0/prototype.ui.png)
+<img width="892" height="622" alt="Image" src="https://github.com/user-attachments/assets/13bd9983-bd80-4b90-8b6a-44df7710ed48" />
 *A preview of the Re:Worded interface.*
 
 ---
