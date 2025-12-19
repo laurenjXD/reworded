@@ -2,7 +2,7 @@
 
 > A Permutation Playground for Words. An interactive tool to visualize combinatorial concepts.
 
-![Project Screenshot]([LINK TO YOUR SCREENSHOT HERE])
+(https://github.com/laurenjXD/reworded/releases/download/v1.0/prototype.ui.png)
 *A preview of the Re:Worded interface.*
 
 ---
@@ -12,7 +12,7 @@
 **For the easiest experience, download the standalone executable:**
 
 1.  Go to the **[Releases](../../releases)** section on the right sidebar.
-2.  Download the file named **`ReWorded.exe`**.
+2.  Download the file named **`reworded.exe`**.
 3.  Double-click to run.
     * *Note: If Windows Defender shows a warning, click "More Info" > "Run Anyway". This appears because this is a custom student application and is not digitally signed.*
 
@@ -53,7 +53,7 @@ If you prefer to run the raw Python code (or if you are grading the syntax), fol
 
 1.  **Clone the repository**
     ```bash
-    git clone [YOUR_GITHUB_REPO_LINK_HERE]
+    git clone (https://github.com/laurenjXD/reworded.git)
     ```
 2.  **Install dependencies**
     ```bash
@@ -61,14 +61,16 @@ If you prefer to run the raw Python code (or if you are grading the syntax), fol
     ```
 3.  **Run the application**
     ```bash
-    python main.py
+    python reworded.py
     ```
 
 ---
 
 ## 👤 Author
 
-**[YOUR NAME HERE]**
+**Gutierrez, Kristine Ianne Marie**
+**Quidit, Lauren Jade**
+**Santos, Andjhelyn Denielle**
 * **Course:** S-CSPC212 – Discrete Structures 1
 * **Date:** December 2025
 
