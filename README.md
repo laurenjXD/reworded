@@ -70,8 +70,11 @@ If you prefer to run the raw Python code (or if you are grading the syntax), fol
 ## 👤 Author
 
 **Gutierrez, Kristine Ianne Marie**
+
 **Quidit, Lauren Jade**
+
 **Santos, Andjhelyn Denielle**
+
 * **Course:** S-CSPC212 – Discrete Structures 1
 * **Date:** December 2025
 
